@@ -1,13 +1,1 @@
-# gittest
-ghjdthrf
-
-
----
-
-
----
-# test
-|
-|
-|
----
+# README
